@@ -1,0 +1,21 @@
+{
+  "name": "typescript-express-seed",
+  "version": "0.0.1-beta",
+  "description": "A TypeScript-based express seed",
+  "main": "dist/tide.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node": "0.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4"
+  }
+}
