@@ -2,7 +2,7 @@
   "name": "typescript-express-seed",
   "version": "0.0.1-beta",
   "description": "A TypeScript-based express seed",
-  "main": "dist/tide.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
